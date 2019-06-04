@@ -1,3 +1,7 @@
 test
 hello
-hello weihao
+<<<<<<< HEAD
+hello weiwei
+=======
+hello weiwei
+>>>>>>> test
